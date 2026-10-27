@@ -1,0 +1,6 @@
+{
+  "name": "IPMC-SimWeb: Soft Actuator Digital Twin",
+  "description": "Web-based digital twin for IPMC soft actuators modeling Prandtl-Ishlinskii hysteresis, Krejci-Kuhnen inverse compensation, 2nd-order plant dynamics with hydrodynamic drag, and 4-way closed-loop control comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for IPMC-SimWeb: Web-Based Digital Twin for IPMC Soft Actuators, featuring Prandtl-Ishlinskii hysteresis modeling, Krejci-Kuhnen inverse feedforward compensation, discrete-time 2nd-order plant dynamics with drag, 4-way controller comparison (Open Loop, FF Only, FB Only, Hybrid), synthetic chirp benchmark generator, CSV data identification, physics-informed simulation, 2D cantilever bending animation, and scientific CSV/JSON export.",
+  "updatedAt":  "2026-10-27T11:25:18.242531795Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
